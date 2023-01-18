@@ -12,8 +12,7 @@ echo "########################################"
 echo "Start & Enable HTTPD Service"
 echo "########################################"
 sudo systemctl start httpd
-sudo systemctl enable httpd
-echo
+
 
 # Creating Temp Directory
 echo "########################################"
