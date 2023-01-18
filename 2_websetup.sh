@@ -11,12 +11,7 @@ echo
 echo "########################################"
 echo "Start & Enable HTTPD Service"
 echo "########################################"
-sudo systemctl start httpd
 
-
-# Creating Temp Directory
-echo "########################################"
-echo "Starting Artifact Deployment"
 
 
 
