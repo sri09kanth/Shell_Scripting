@@ -20,8 +20,7 @@ echo "########################################"
 echo "Starting Artifact Deployment"
 echo "########################################"
 mkdir -p /tmp/webfiles
-cd /tmp/webfiles
-echo
+
 
 wget https://www.tooplate.com/zip-templates/2098_health.zip > /dev/null
 unzip 2098_health.zip > /dev/null
