@@ -17,8 +17,7 @@ sudo systemctl start httpd
 # Creating Temp Directory
 echo "########################################"
 echo "Starting Artifact Deployment"
-echo "########################################"
-mkdir -p /tmp/webfiles
+
 
 
 wget https://www.tooplate.com/zip-templates/2098_health.zip > /dev/null
