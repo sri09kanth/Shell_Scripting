@@ -35,12 +35,7 @@ echo "########################################"
 systemctl restart httpd
 echo
 
-# Clean Up
-echo "########################################"
-echo "Removing Temporary Files"
-echo "########################################"
-rm -rf /tmp/webfiles
-echo
+
 
 sudo systemctl status httpd
 ls /var/www/html/
