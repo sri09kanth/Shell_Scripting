@@ -11,9 +11,7 @@ else
    echo "Httpd process is NOT Running."
    echo "Starting the process"
    systemctl start httpd 
-   if [ $? -eq 0 ]
-   then
-      echo "Process started successfully."
+
 
 
 
