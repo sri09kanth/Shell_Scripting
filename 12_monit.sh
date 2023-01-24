@@ -15,6 +15,6 @@ else
    then
       echo "Process started successfully."
    else
-      echo "Process Starting Failed, contact the admin."
+
 
  
