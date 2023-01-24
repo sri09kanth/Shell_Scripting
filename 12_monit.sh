@@ -17,6 +17,5 @@ else
    else
       echo "Process Starting Failed, contact the admin."
    fi
-fi
-echo "#####################################################"
+
  
