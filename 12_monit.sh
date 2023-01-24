@@ -14,7 +14,7 @@ else
    if [ $? -eq 0 ]
    then
       echo "Process started successfully."
-   else
+
 
 
  
