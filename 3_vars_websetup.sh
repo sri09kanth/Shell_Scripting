@@ -28,7 +28,7 @@ echo "Starting Artifact Deployment"
 echo "########################################"
 mkdir -p $TEMPDIR
 cd $TEMPDIR
-echo
+
 
 
 
