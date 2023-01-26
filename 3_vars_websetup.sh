@@ -47,6 +47,6 @@ echo "########################################"
 echo "Removing Temporary Files"
 echo "########################################"
 rm -rf $TEMPDIR
-echo
+
 
 
