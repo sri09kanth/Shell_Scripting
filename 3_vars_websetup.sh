@@ -49,5 +49,4 @@ echo "########################################"
 rm -rf $TEMPDIR
 echo
 
-sudo systemctl status $SVC
 
