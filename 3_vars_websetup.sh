@@ -30,7 +30,7 @@ mkdir -p $TEMPDIR
 cd $TEMPDIR
 echo
 
-wget $URL > /dev/null
+
 
 
 echo
