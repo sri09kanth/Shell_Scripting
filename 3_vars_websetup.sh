@@ -31,7 +31,7 @@ cd $TEMPDIR
 echo
 
 wget $URL > /dev/null
-unzip $ART_NAME.zip >
+
 
 echo
 
