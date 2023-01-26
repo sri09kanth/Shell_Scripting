@@ -50,4 +50,4 @@ rm -rf $TEMPDIR
 echo
 
 sudo systemctl status $SVC
-ls /var/www/html/
+
