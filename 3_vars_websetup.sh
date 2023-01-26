@@ -32,7 +32,7 @@ echo
 
 wget $URL > /dev/null
 unzip $ART_NAME.zip > /dev/null
-sudo cp -r $ART_NAME/* /var/www/html/
+
 echo
 
 # Bounce Service
