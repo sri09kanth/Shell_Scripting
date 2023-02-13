@@ -30,9 +30,6 @@ echo
 
 # Bounce Service
 
-
-
-
 echo "########################################"
 echo "Removing Temporary Files"
 echo "########################################"
