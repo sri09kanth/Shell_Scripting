@@ -32,7 +32,7 @@ echo
 echo "########################################"
 echo "Restarting HTTPD service"
 echo "########################################"
-systemctl restart httpd
+
 echo
 
 # Clean Up
