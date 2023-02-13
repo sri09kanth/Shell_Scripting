@@ -30,7 +30,6 @@ echo
 
 # Bounce Service
 
-echo "########################################"
-echo "Removing Temporary 
+
 
 echo
