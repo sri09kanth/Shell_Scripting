@@ -31,7 +31,6 @@ echo
 # Bounce Service
 
 echo "########################################"
-echo "Removing Temporary Files"
-
+echo "Removing Temporary 
 rm -rf /tmp/webfiles
 echo
