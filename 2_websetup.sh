@@ -32,5 +32,5 @@ echo
 
 echo "########################################"
 echo "Removing Temporary 
-rm -rf /tmp/webfiles
+
 echo
