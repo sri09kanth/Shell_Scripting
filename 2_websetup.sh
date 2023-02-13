@@ -11,7 +11,7 @@ echo
 echo "########################################"
 echo "Start & Enable HTTPD Service"
 echo "#######################################
-sudo systemctl start httpd
+sudo systemctl start
 sudo systemctl enable httpd
 echo
 
