@@ -16,7 +16,7 @@ sudo systemctl enable httpd
 echo
 
 # Creating Temp Directory
-echo "########################################"
+echo "###################################
 echo "Starting Artifact Deployment"
 echo "########################################"
 mkdir -p /tmp/webfiles
