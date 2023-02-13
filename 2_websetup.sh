@@ -32,6 +32,6 @@ echo
 
 echo "########################################"
 echo "Removing Temporary Files"
-echo "########################################"
+
 rm -rf /tmp/webfiles
 echo
