@@ -28,4 +28,3 @@ unzip 2098_health.zip > /dev/null
 sudo cp -r 2098_health/* /var/www/html/
 echo
 
-# Bounce 
