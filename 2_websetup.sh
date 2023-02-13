@@ -32,7 +32,7 @@ echo
 
 echo
 
-# Clean Up
+
 echo "########################################"
 echo "Removing Temporary Files"
 echo "########################################"
