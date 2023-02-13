@@ -29,9 +29,7 @@ sudo cp -r 2098_health/* /var/www/html/
 echo
 
 # Bounce Service
-echo "########################################"
-echo "Restarting HTTPD service"
-echo "########################################"
+echo "###
 
 echo
 
