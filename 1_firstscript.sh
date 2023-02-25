@@ -17,7 +17,3 @@ echo "Memory Utilization"
 free -m
 echo
 
-# Disk Utilization
-echo "#####################################"
-echo "Disk Utilization"
-
