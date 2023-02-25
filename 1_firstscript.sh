@@ -13,4 +13,4 @@ echo
 
 # Memory Utilization
 echo "#####################################"
-echo 
+e
