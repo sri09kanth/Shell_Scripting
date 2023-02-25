@@ -8,7 +8,7 @@ echo
 #checking systemt uptime
 echo "#####################################"
 echo "The uptime of the system is:
-uptime
+upti
 ec
 
 # Memory Utilizati
