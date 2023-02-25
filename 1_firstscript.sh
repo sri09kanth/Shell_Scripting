@@ -12,4 +12,4 @@ uptime
 echo
 
 # Memory Utilizati
-echo "##########################
+echo "#################
