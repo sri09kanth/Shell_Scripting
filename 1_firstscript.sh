@@ -11,5 +11,5 @@ echo "The uptime of the system is:
 uptime
 echo
 
-# Memory Utilization
+# Memory Utilizati
 echo "##############################
