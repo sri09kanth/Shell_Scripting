@@ -15,5 +15,5 @@ echo
 echo "#####################################"
 echo "Memory Utilization"
 free -m
-echo
+
 
