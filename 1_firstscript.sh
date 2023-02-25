@@ -9,7 +9,5 @@ echo
 echo "#####################################"
 echo "The uptime of the system is:
 upti
-ec
-
 # Memory Utilizati
 echo "##############
