@@ -27,7 +27,6 @@ echo "########################################"
 echo "Starting Artifact Deployment
 echo "########################################
 mkdir -p $TEMPD
-
 # Bounce Servic
 echo "########################################"
 echo "Restarting HTTPD service"
