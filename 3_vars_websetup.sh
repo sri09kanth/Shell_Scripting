@@ -11,7 +11,7 @@ TEMPDIR="/tmp/webfiles"
 echo "########################################"
 echo "Installing packages."
 echo "########################################"
-sudo yum install $PACKAGE -y > /dev/null
+sudo yum install $PACKAGE -y > /dev/nu
 echo
 
 # Start & Enable Service
