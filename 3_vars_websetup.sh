@@ -31,7 +31,7 @@ mkdir -p $TEMPD
 echo "########################################"
 echo "Restarting HTTPD service"
 echo "########################################"
-systemctl restart $SVC
+systemctl restart $SV
 echo
 
 # Clean Up
