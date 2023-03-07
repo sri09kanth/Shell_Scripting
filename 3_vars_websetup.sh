@@ -26,7 +26,7 @@ echo
 echo "########################################"
 echo "Starting Artifact Deployment
 echo "########################################
-mkdir -p $TEMPDI
+mkdir -p $TEMPD
 
 # Bounce Service
 echo "########################################"
