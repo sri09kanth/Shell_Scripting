@@ -30,7 +30,7 @@ mkdir -p $TEMPDIR
 
 
 
-echo
+ec
 
 # Bounce Service
 echo "########################################"
