@@ -27,7 +27,7 @@ echo "########################################"
 echo "Starting Artifact Deployment"
 echo "########################################"
 mkdir -p $TEMPDIR
-cd $TEMPDIR
+cd $TEMPDI
 echo
 
 wget $1 > /dev/null
