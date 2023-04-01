@@ -24,7 +24,7 @@ echo
 
 # Creating Temp Directory
 echo "########################################"
-echo "Starting Artifact Deployment"
+echo "Starting Artifact eployment"
 echo "########################################"
 mkdir -p $TEMPDIR
 cd $TEMPDI
