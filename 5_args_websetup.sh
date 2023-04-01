@@ -7,7 +7,7 @@ SVC="httpd"
 #ART_NAME='298_health'
 TEMPDIR="/tmp/webfil
 # Installing Dependencie
-echo "########################################"
+echo "#######################################"
 echo "Installing package."
 echo "########################################"
 sudo yum install $PACKAGE -y > /dev/null
