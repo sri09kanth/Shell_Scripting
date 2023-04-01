@@ -31,7 +31,7 @@ cd $TEMPDI
 echo
 
 wget $1 > /dev/null
-unzip $2.zip > /dev/null
+unzip $2.zip > /dev/nul
 sudo cp -r $2/* /var/www/html/
 echo
 
