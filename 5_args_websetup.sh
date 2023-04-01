@@ -6,7 +6,6 @@ SVC="httpd"
 #URL='https://www.tooplate.com/zip-templates/2098_health.zip'
 #ART_NAME='298_health'
 TEMPDIR="/tmp/webfil
-
 # Installing Dependencie
 echo "########################################"
 echo "Installing packages."
