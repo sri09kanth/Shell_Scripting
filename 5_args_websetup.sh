@@ -5,7 +5,7 @@ PACKAGE="httpd wget unzip"
 SVC="httpd"
 #URL='https://www.tooplate.com/zip-templates/2098_health.zip'
 #ART_NAME='298_health'
-TEMPDIR="/tmp/webfile
+TEMPDIR="/tmp/webfil
 
 # Installing Dependencies
 echo "########################################"
