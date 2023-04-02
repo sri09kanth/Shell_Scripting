@@ -5,7 +5,7 @@ read SKILL
 
 echo "Your $SKILL skill is in high Demand in the IT Industry."
 
-read -p 'Username: ' USR
+read -p 'Username: ' US
 read -sp 'Password: ' pass
 
 echo
