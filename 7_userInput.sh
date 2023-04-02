@@ -4,7 +4,7 @@ echo "Enter your skills:"
 read SKILL
 
 echo "Your $SKILL skill is in high Demand in the IT Industry."
-read -p 'Username: ' US
+read -p 'Usernme: ' US
 read -sp 'Password: ' p
 eho
 echo "Logn Succesfull: Welcome USER $USR,"
