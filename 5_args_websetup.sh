@@ -3,7 +3,7 @@
 # Variable Declaration
 PACKAGE="httpd wget unzip"
 SVC="httpd"
-#URL='https://www.tooplate.com/-templates/2098_health.zip'
+#URL='https://www.tooplate.com/-/2098_health.zip'
 #ART_NAME='2098_health'
 TEMPDIR="/tmp/webfiles"
 #  Dependencies
