@@ -8,7 +8,7 @@ SVC="httpd"
 TEMPDIR="/tmp/webfiles"
 
 # Installing Dependencies
-echo "########################################"
+echo 
 echo "Installing packages."
 echo "########################################"
 sudo yum install $PACKAGE -y > /dev/null
