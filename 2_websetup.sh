@@ -8,7 +8,7 @@ sudo yum install wget unzip httpd -y > /dev/null
 echo
 
 # Start & Enable Service
-echo "########################################"
+echo "#######################################"
 echo "Start & Enable HTTPD Service"
 echo 
 sudo systemctl start httpd
