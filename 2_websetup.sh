@@ -8,7 +8,7 @@ sudo yum install wget unzip httpd -y > /dev/null
 echo
 
 # Start & Enable 
-echo "Start & Enable HTTD "
+echo "Start & = HTTD "
 echo 
 sudo systemctl start httpd
 sudo systemctl enable httpd
