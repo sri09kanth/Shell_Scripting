@@ -10,5 +10,5 @@ echo "Value of 2"
 echo $2
 
 echo "Value of 3"
-echo $3
+echo $
 
