@@ -5,7 +5,7 @@ Keep in touch with for any kind of technical questions
 [Email List](https://feedburner.google.com/fb/a/mailverify?uri=arkit)
 [Linkedin](https://in.linkedin.com/in/ravi-kumar-94530121)
 [Google Plus](https://plus.google.com/u/0/+RedhatEnterpriseLinuxStepbyStepGuide/posts)
-[Twitter](https://twitter.com/aravikumar48
+[Twitter](https://twitter.com/aravikumar4
 [Youtube](https://www.youtube.com/Techarkit?subconfirmation=1)
 [Email Address](aravikumar48@gmail.co
 A complete begineers guide to learn shell scripting from scrach which includes Vdeos, Practice scenarios and project idea. I will create one file for one topic with c
