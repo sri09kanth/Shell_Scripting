@@ -9,7 +9,6 @@ Keep in touch with for any kind of technical questions
 [Youtube](https://www.youtube.com/Techarkit?subconfirmation=1)
 [Email Address](aravikumar48@gmail.com
 A complete begineers guide to learn shell scripting from scratch which includes Vdeos, Practice scenarios and project idea. I will create one file for one topic with code
-
 Before jumping into the Shell scripting below are commands you have to practice for better understanding and familiar with Linux command line interface. 
 
 If you do not learn below commands also fine but i personally recommend you to learn commands first.
