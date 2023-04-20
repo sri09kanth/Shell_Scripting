@@ -7,7 +7,7 @@ Keep in touch with for any kind of technical questions
 [Google Plus](https://plus.google.com/u/0/+RedhatEnterpriseLinuxStepbyStepGuide/posts)
 [Twitter](https://twitter.com/aravikumar48
 [Youtube](https://www.youtube.com/Techarkit?subconfirmation=1)
-[Email Address](aravikumar48@gmail.com
+[Email Address](aravikumar48@gmail.co
 A complete begineers guide to learn shell scripting from scrach which includes Vdeos, Practice scenarios and project idea. I will create one file for one topic with c
 Before jumping into the Shell scripting bew are commands you have to practice for better understanding and familiar with Linux command line interface. 
 If you do notlearn below comands also fine but i personally recommend you to learn commands first.
