@@ -9,7 +9,7 @@ Keep in touch with for any kind of technical questions
 [Youtube](https://www.youtube.com/Techarkit?subconfirmation=1)
 [Email Address](aravikumar48@gmail.com
 A complete begineers guide to learn shell scripting from scratch which includes Vdeos, Practice scenarios and project idea. I will create one file for one topic with co
-Before jumping into the Shell scripting belw are commands you have to practice for better understanding and familiar with Linux command line interface. 
+Before jumping into the Shell scripting bew are commands you have to practice for better understanding and familiar with Linux command line interface. 
 If you do notlearn below commands also fine but i personally recommend you to learn commands first.
 [103 Linux Comands Video Tutorial](https://www.youtube.com/watch?v=VG-MMju9RhQ&list=PLHyfPDPl-JDX_dfDEpsvglu4x3h1RjPkz)
 alias and unalias, arch, arp, at, awk, bc, blkid, cal, cat, cd, chage, chattr, chgrp, chmod, chown, cp, cpio, crontab, curl, cut, date, dd, df, diff, dig, dnf, du, expr, fdisk, file, find, firewall-cmd, free, ftp, grep, head, history, hostname, id, ifconfig, iostat, ip, kill, last, lessandmore, ln, locate, lpstatandlpadmin, ls, lsof, lspci, mail, man, mdadm, mkdirandrmdir, mkisofs, mount, mutt, mv, nano, netstat, nice, renice, nslookup, passwd, pam_tally2, paste, ping, perloneliner, pkill, ps, pwd, reboot, poweroff, rm, rpm, rsync, scp, screen, sed, sort, ss, ssh, sysctl, tail, tar, tcpdump, top, touch, tr, traceroute, umask, uname, uniq, uptime, useradd, vi, vmstat, w, who, watch, wc, wget, ypcat, yppasswd, yum, zip, sar
