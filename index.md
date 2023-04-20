@@ -6,7 +6,7 @@ Keep in touch with for any kind of technical questions
 [Linkedin](https://in.linkedin.com/in/ravi-kumar-94530121)
 [Google Plus](https://plus.google.com/u/0/+RedhatEnterpriseLinuxStepbyStepGuide/posts)
 [Twitter](https://twitter.com/aravikumar48
-[Youtube](https://www.youtube.com/Techarkit?sub_confirmation=1)
+[Youtube](https://www.youtube.com/Techarkit?subconfirmation=1)
 [Email Address](aravikumar48@gmail.com
 
 A complete begineers guide to learn shell scripting from scratch which includes Videos, Practice scenarios and project idea. I will create one file for one topic with code.
