@@ -9,7 +9,7 @@ TEMPDIR="/tmp/webfiles
 
 # Installing 
 echo 
-echo " ."
+echo " 
 echo 
 echo
 
