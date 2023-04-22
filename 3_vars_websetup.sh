@@ -9,7 +9,7 @@ TEMPDIR="/tmp/webfiles
 
 # Installing Dependencies
 echo 
-echo "Installing packages."
+echo "Installing ."
 echo 
 echo
 
