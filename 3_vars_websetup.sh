@@ -4,8 +4,7 @@
 PACKAGE="httpd wget "
 SVC="httpd"
 URL='https://www
- 
-echo 
+  
 echo
 
 # Start & Enable Service
