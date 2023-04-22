@@ -4,7 +4,6 @@
 PACKAGE="httpd wget "
 SVC="httpd"
 URL='https://www
-ART_NAME=
  
 echo 
 echo
