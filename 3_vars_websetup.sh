@@ -8,7 +8,6 @@ ART_NAME=
 
 # Installing 
 echo 
-echo " 
 echo 
 echo
 
