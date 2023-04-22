@@ -8,7 +8,7 @@ ART_NAME='2098_health'
 TEMPDIR="/tmp/webfiles"
 
 # Installing Dependencies
-echo "########################################"
+echo 
 echo "Installing packages."
 echo 
 sudo yum install $PACKAGE -y > /dev/null
