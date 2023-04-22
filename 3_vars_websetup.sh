@@ -3,7 +3,7 @@
 # Variable Declaration
 PACKAGE="httpd wget unzip"
 SVC="httpd"
-URL='https://www.tooplate.com/zip
+URL='https://www.tooplate.co
 ART_NAME='
 TEMPDIR="/tmp/webfiles"
 
