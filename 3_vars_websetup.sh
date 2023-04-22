@@ -4,7 +4,7 @@
 PACKAGE="httpd wget unzip"
 SVC="httpd"
 URL='https://www.
-ART_NAME='
+ART_NAME=
 TEMPDIR="/tmp/
 
 # Installing 
