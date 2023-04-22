@@ -5,7 +5,7 @@ PACKAGE="httpd wget unzip"
 SVC="httpd"
 URL='https://www.
 ART_NAME='
-TEMPDIR="/tmp/webfiles
+TEMPDIR="/tmp/
 
 # Installing 
 echo 
