@@ -5,7 +5,6 @@ PACKAGE="httpd wget "
 SVC="httpd"
 URL='https://www
 ART_NAME=
-TEMPDIR="/tmp/
 
 # Installing 
 echo 
