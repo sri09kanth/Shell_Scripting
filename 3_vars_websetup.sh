@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variable Declaration
-PACKAGE="httpd wget unzip"
+PACKAGE="httpd wget "
 SVC="httpd"
 URL='https://www
 ART_NAME=
