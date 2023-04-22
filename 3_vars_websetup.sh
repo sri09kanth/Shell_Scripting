@@ -7,7 +7,7 @@ URL='https://www.
 ART_NAME='
 TEMPDIR="/tmp/webfiles
 
-# Installing Dependencies
+# Installing 
 echo 
 echo "Installing ."
 echo 
