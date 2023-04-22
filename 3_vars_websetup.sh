@@ -6,7 +6,6 @@ SVC="httpd"
 URL='https://www
 ART_NAME=
 
-# Installing 
 echo 
 echo 
 echo
