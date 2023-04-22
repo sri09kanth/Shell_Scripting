@@ -4,7 +4,7 @@
 PACKAGE="httpd wget unzip"
 SVC="httpd"
 URL='https://www.tooplate.com/zip-/.zip'
-ART_NAME='2098_health
+ART_NAME='
 TEMPDIR="/tmp/webfiles"
 
 # Installing Dependencies
