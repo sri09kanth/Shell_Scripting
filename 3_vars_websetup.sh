@@ -3,7 +3,7 @@
 # Variable Declaration
 PACKAGE="httpd wget unzip"
 SVC="httpd"
-URL='https://www.
+URL='https://www
 ART_NAME=
 TEMPDIR="/tmp/
 
