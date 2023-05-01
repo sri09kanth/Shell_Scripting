@@ -5,5 +5,5 @@ do
   echo "Looping....."
   sleep 
   echo "##################################################"
-  echo "Value of VAR1 is $
+  echo "Value of VA1 is $
   echo "###########################################
