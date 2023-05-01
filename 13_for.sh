@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bas
 
 for VAR1 in java .net pythonruby php
 d
