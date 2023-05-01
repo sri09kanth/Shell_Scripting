@@ -2,7 +2,7 @@
 
 for VAR1 in java .net python ruby php
 do
-  echo "Looping....."
+  echo "Looping.....
   sleep
   echo "##################################################
   echo "Value of VA1 i
