@@ -1,7 +1,7 @@
 #!/bin/bash
 
 for VAR1 in java .net python ruby php
-do
+d
   echo "Looping....
   slee
   echo "##################################################
