@@ -4,5 +4,5 @@ d
   echo "Looping....
   sle
   echo "############################\
-  echo "Value 
+  echo "Value
   echo "##################################
